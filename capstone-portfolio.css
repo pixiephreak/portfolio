@@ -1,5 +1,5 @@
 body {
-  color: #fff;  
+  color: #fff;
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000;
@@ -56,14 +56,14 @@ h3.section-subheading {
     background-color: #000;
     margin-bottom: 20px;
     color: #fff;
-    
+
 }
 
 .portfolio-modal .btn{
     background-color: #000;
     margin-bottom: 20px;
     color: #fff;
-    
+
 }
 
 
@@ -71,7 +71,7 @@ h3.section-subheading {
 
 .btn:hover{
 
-    
+
 }
 
 h1,
@@ -90,14 +90,14 @@ h6 {
 @media screen and (min-width:768px){
 #myNavbar .nav {
 	font-size: 1.5em;
-	position: absolute; 
-    bottom: 25%; 
+	position: absolute;
+    bottom: 25%;
     right: 7%;
     margin-bottom: -15px;
 }
 }
 
-  
+
 #header {
   background-image: url('imgs/green_my_screen_cover.jpg');
   background-repeat: no-repeat;
@@ -110,29 +110,29 @@ h6 {
  width:100%;
  padding-top: 450px;
  color: white;
- 
+
 }
 
 #headerContent{
     margin: 0 auto; width:900px;
-    
+
 }
 
 header .introText {
- 
+
 }
 header .introText .introLeadin {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
-  font-size: 1.75em; 
-  
+  font-size: 1.75em;
+
 }
 header .introText .introHeading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 4em;
-  
+
 }
 @media (max-width: 768px) {
     #header {
@@ -147,7 +147,7 @@ header .introText .introHeading {
   width:100%;
   color: white;
   padding-top: 400px;
- 
+
 }
 
 #headerContent{
@@ -157,14 +157,14 @@ header .introText .introHeading {
 }
 
   header .introText {
-    
+
   }
   header .introText .introLeadin {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 1.25em;
     margin-bottom: 1%;
-    
+
   }
   header .introText .introHeading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -263,7 +263,7 @@ header .introText .introHeading {
   margin: 0 auto;
   background-color: white;
   text-align: center;
-  
+
 }
 
 #collection * {
@@ -290,7 +290,7 @@ header .introText .introHeading {
   font-weight: 700;
 }
 
-.portfolio-modal .item{ 
+.portfolio-modal .item{
   padding-bottom: 5%;
 }
 
@@ -323,9 +323,9 @@ header .introText .introHeading {
 
 .footer{
   min-height:100px;
-  background-color: #00ff00;
+  background-color: #fff;
   padding: 1%;
-  padding-top: 3%;
+  padding-top: 1%;
 }
 
 #about{
